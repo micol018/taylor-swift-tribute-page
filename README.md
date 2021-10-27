@@ -1,4 +1,4 @@
-This is a Jimi Hendrix Tribute page.
+This is a Taylor Swift Tribute page.
 
 It makes up the first part of my coding portfolio.
 
